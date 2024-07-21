@@ -29,4 +29,3 @@ This consent is documented and retained for reference. For any inquiries regardi
 
 ## Author
 Luana Rafaela Gerber
-luanagerber.dev@gmail.com.
