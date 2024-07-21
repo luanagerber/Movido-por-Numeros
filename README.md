@@ -20,16 +20,16 @@ The spaceship symbolizes the journey of personal development of young Eduardo, w
 ## How to Run
 Prerequisites: You must have Xcode installed on your macOS.
 
-1. Clone this repository on Xcode
-2. Run with Xcode Simulator
+1. Clone this repository on Xcode: https://github.com/luanagerber/Movido-por-Numeros.git
+2. Run with Xcode iPhone Simulator
 
 ## Screenshots
 <p align="center">
-<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpv_screenshot01.png">
-<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpv_screenshot02.png"></p>
+<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpn_screenshot01.png">
+<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpn_screenshot02.png"></p>
 <p align="center">
-<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpv_screenshot03.png">
-<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpv_screenshot04.png">
+<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpn_screenshot03.png">
+<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpn_screenshot04.png">
 </p>
 
 ## Disclaimer of Consent
