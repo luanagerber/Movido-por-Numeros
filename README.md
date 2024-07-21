@@ -12,7 +12,7 @@ The spaceship symbolizes the journey of personal development of young Eduardo, w
 - Affinity Photo<br>
 
 ## Features
-– Animated drawings
+- Animated drawings
 - Math expressions to be solved
 - Block navigation if user answer is incorrect
 - Visual user feedback if user answer is incorrect
