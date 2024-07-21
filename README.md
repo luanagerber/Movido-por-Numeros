@@ -23,6 +23,15 @@ Prerequisites: You must have Xcode installed on your macOS.
 1. Clone this repository on Xcode
 2. Run with Xcode Simulator
 
+## Screenshots
+<p align="center">
+<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpv_screenshot01.png">
+<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpv_screenshot02.png"></p>
+<p align="center">
+<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpv_screenshot03.png">
+<img alt="Project Screenshot" width="250" src="https://github.com/luanagerber/Movido-por-Numeros/blob/main/Documentation/mpv_screenshot04.png">
+</p>
+
 ## Disclaimer of Consent
 
 I have obtained explicit consent from Eduardo Cordeiro da Camara to use his story in this mobile application. The consent was given on 07/12/2024 and includes permission to use, reproduce, and distribute the story in the context of this project.
