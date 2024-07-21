@@ -14,7 +14,7 @@ The spaceship symbolizes the journey of personal development of young Eduardo, w
 ## Features
 - Animated drawings
 - Math expressions to be solved
-- Block navigation if user answer is incorrect
+- Blocked navigation if user answer is incorrect
 - Visual user feedback if user answer is incorrect
 
 ## How to Run
