@@ -18,6 +18,8 @@ The spaceship symbolizes the journey of personal development of young Eduardo, w
 - Visual user feedback if user answer is incorrect
 
 ## How to Run
+Prerequisites: You must have Xcode installed on your macOS.
+
 1. Clone this repository on Xcode
 2. Run with Xcode Simulator
 
